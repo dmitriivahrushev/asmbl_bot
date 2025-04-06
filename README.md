@@ -1,6 +1,6 @@
 # Asmblbot
 <div style="width: 200px; margin: 0 auto; text-align: center;">
-  <img src="png/image.jpg" alt="Asmblbot" style="max-width: 100%; height: auto;">
+  <img src="png/image.jpg" alt="Asmblbot" style="max-width: 70%; height: auto;">
 </div>
 
 Телеграм-бот для управления отделом, который помогает оптимизировать работу сотрудников и автоматизирует рутинные процессы.
