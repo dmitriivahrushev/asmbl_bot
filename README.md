@@ -1,5 +1,5 @@
 # Asmblbot
-<div style="width: 300px; margin: 0 auto; text-align: center;">
+<div style="width: 200px; margin: 0 auto; text-align: center;">
   <img src="png/image.jpg" alt="Asmblbot" style="max-width: 100%; height: auto;">
 </div>
 
