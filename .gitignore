@@ -1,0 +1,5 @@
+venv/
+.venv/
+instructions_img/
+config.py
+base2.db
