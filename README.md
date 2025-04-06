@@ -1,5 +1,7 @@
 # Asmblbot
-![Asmblbot](png/image.jpg)
+<div style="width: 300px; margin: 0 auto; text-align: center;">
+  <img src="png/image.jpg" alt="Asmblbot" style="max-width: 100%; height: auto;">
+</div>
 
 Телеграм-бот для управления отделом, который помогает оптимизировать работу сотрудников и автоматизирует рутинные процессы.
 ***
