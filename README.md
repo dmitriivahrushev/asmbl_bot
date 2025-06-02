@@ -1,4 +1,4 @@
-<img src="png/image.jpg" alt="Asmblbot" width="500" height="500" style="display: block; margin-left: 150;">
+![avatar](/png/android.png)
 
 Телеграм-бот для управления отделом, который помогает оптимизировать работу сотрудников и автоматизирует рутинные процессы.
 ***
